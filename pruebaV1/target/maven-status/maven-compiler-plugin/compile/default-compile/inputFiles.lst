@@ -1,0 +1,12 @@
+D:\pruebaV1\src\main\java\com\spring\fullstack\test\util\StatusSpring.java
+D:\pruebaV1\src\main\java\com\spring\fullstack\test\exception\GeneralException.java
+D:\pruebaV1\src\main\java\com\spring\fullstack\test\util\ResponseMessages.java
+D:\pruebaV1\src\main\java\com\spring\fullstack\test\exception\InvalidElementException.java
+D:\pruebaV1\src\main\java\com\spring\fullstack\test\api\UserController.java
+D:\pruebaV1\src\main\java\com\spring\fullstack\test\dao\UserRepository.java
+D:\pruebaV1\src\main\java\com\spring\fullstack\test\service\implementation\UserServiceImpl.java
+D:\pruebaV1\src\main\java\com\spring\fullstack\test\util\Response.java
+D:\pruebaV1\src\main\java\com\spring\fullstack\test\entity\User.java
+D:\pruebaV1\src\main\java\com\spring\fullstack\test\config\SpringDataSourceConfig.java
+D:\pruebaV1\src\main\java\com\spring\fullstack\test\SpringBooFullstacktApplication.java
+D:\pruebaV1\src\main\java\com\spring\fullstack\test\service\IUserService.java
